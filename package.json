@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-to-wordpress",
-  "version": "1.0.0-beta.13",
+  "version": "1.0.0-beta.14",
   "author": {
     "name": "lzw."
   },
@@ -15,12 +15,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/lzwdot/blog/tree/main/docs/.vuepress/plugins/vuepress-plugin-to-wordpress"
+    "url": "https://github.com/lzwdot/vuepress-plugin-to-wordpress"
   },
-  "homepage": "https://github.com/lzwdot/blog/tree/main/docs/.vuepress/plugins/vuepress-plugin-to-wordpress",
+  "homepage": "https://github.com/lzwdot/vuepress-plugin-to-wordpress",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lzwdot/blog/issues"
+    "url": "https://github.com/lzwdot/vuepress-plugin-to-wordpress/issues"
   },
   "scripts": {
     "test": "node ./test/wordpress-test.js"
